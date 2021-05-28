@@ -9,6 +9,6 @@ As for the fourth input, this is a string indicating the season. In summer, thin
 
 The output-image-filename is just the terrain-image with the optimal path drawn on top. For simplicity's sake, just make a copy of the terrain image, naming it differently of course when you run the program.
 
-The inputFiles folder contains all the different path-files you can choose to run. The outputImages folder contains the solutions to a path made when the program is ran with a specific path-file and season. For example, the path drawn in redFall.png is what you should get when you run the program with the red.txt path file and the season fall. However, there are other terrain images and elevation files other than the default terrain.png and mpp.txt.
+The inputFiles folder contains all the different path-files you can choose to run. The outputImages folder contains the solutions to a path made when the program is ran with a specific path-file and season. For example, the path drawn in redFall.png is what you should get when you run the program with the red.txt path file and the season fall. However, there are other terrain images and elevation files other than the default terrain.png and mpp.txt. To avoid confusion, mpp.txt should always be ran with terrain.png, mpp2.txt with terrain2.png, etc.
 
 The main program is in lab1.java.
